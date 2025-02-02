@@ -49,5 +49,14 @@ Hyperparameter Tuning
 Final Model
 
 6. Select the best-performing model and apply it to the test dataset to make predictions.
+# Installation & Usage
+Prerequisites
+ * Python (>=3.7)
+ * Jupyter Notebook (optional)
+ * Required libraries: pandas, numpy, matplotlib, seaborn, scikit-learn
 
-7. 
+# Results
+The best-performing model achieved an accuracy of XX%
+Feature importance analysis showed that gender, fare, and class were key predictors of survival
+
+# Conclusion
