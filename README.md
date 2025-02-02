@@ -56,8 +56,10 @@ Prerequisites
  * Required libraries: pandas, numpy, matplotlib, seaborn, scikit-learn
 
 # Results
-The best-performing model achieved an accuracy of 83.8%
-
-Feature importance analysis showed that gender, fare, and class were key predictors of survival
+* The best-performing model achieved an accuracy of 83.8%
+* Feature importance analysis showed that gender, fare, and class were key predictors of survival
+* Out of 418 passengers 276 are not survived and 142 are survived.
 
 # Conclusion
+
+
