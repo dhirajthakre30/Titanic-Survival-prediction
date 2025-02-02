@@ -25,29 +25,29 @@ The goal of this project is to predict the survival of passengers aboard the Tit
 * 1 = Survived
 
 # Steps Involved
-1.Data Exploration
-Analyzing the dataset to understand its structure and check for missing or outlier values.
-Visualizing relationships between features and the target variable (Survived).
-Data Preprocessing
+1. Data Exploration
+* Analyzing the dataset to understand its structure and check for missing or outlier values.
+* Visualizing relationships between features and the target variable (Survived).
+* Data Preprocessing
 
-Handling missing values.
-Encoding categorical features (e.g., Sex, Embarked).
-Scaling and normalizing numerical features if necessary.
-Model Selection
+2. Handling missing values.
+* Encoding categorical features (e.g., Sex, Embarked).
+* Scaling and normalizing numerical features if necessary.
+* Model Selection
 
-Various machine learning models can be used for this problem, including:
-Logistic Regression
-Decision Trees
-Random Forests
-Support Vector Machines (SVM)
-k-Nearest Neighbors (k-NN)
-Model Evaluation
+3. Various machine learning models can be used for this problem, including:
+* Logistic Regression
+* Decision Trees
+* Random Forests
+* Model Evaluation
 
-Evaluate models based on accuracy, precision, recall, and F1-score.
+4. Evaluate models based on accuracy, precision, recall, and F1-score.
 Cross-validation techniques to ensure the model generalizes well.
 Hyperparameter Tuning
 
-Use techniques like Grid Search or Random Search to tune hyperparameters for better performance.
+5. Use techniques like Grid Search or Random Search to tune hyperparameters for better performance.
 Final Model
 
-Select the best-performing model and apply it to the test dataset to make predictions.
+6. Select the best-performing model and apply it to the test dataset to make predictions.
+
+7. 
