@@ -61,5 +61,5 @@ Prerequisites
 * Out of 418 passengers 276 are not survived and 142 are survived.
 
 # Conclusion
-
+The Titanic survival prediction project successfully analyzed passenger data to identify key factors influencing survival, such as age, gender, class, and fare. Using machine learning models like Logistic Regression, Decision Tree,Random Forest and XGBoost, we achieved reliable predictions, with evaluation metrics like accuracy, precision, recall, and F1-score guiding model selection. This project demonstrates the power of data science in extracting meaningful insights from historical events.
 
